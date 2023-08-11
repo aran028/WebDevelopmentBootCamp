@@ -1,20 +1,7 @@
 # WebDevelopmentBootCamp
-Este repositorio contiene todos aquellos retos a destacar de este BootCamp cursado en Agosto de 2023 con las siguiente secciones:
-- HTML5
-- CSS
-- FlexBox
-- Grid
-- Bootstrap
-- JavaScript
-- DOM (The Document Object Model)
-- jQuery
-- Node.js
-- Express.js with Node.js
-- EJS
-- Databases
-- SQL
-- MongoDB
-- Mongoose
-- Authentication & Security
-- React.js
 
+Este repositorio contiene proyectos interesantes de las secciones siguientes:
+
+- Grid
+  - TableroAjedrez: tablero de ajedrez dibujado haciendo uso de grid.
+  - Mondrian: cuadro dibujado con el estilo artístico Mondrian caracterizado por el uso de líneas rectas, formas geométricas y colores primarios para crear composiciones abstractas y puras que expresan la armonía y el equilibrio de la realidad.
